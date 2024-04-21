@@ -39,15 +39,15 @@ export default defineConfig({
             link: '/experience/',
             collapsed: true,
             items: [{
-              text: 'Review-a',
+              text: 'Review-A',
               link: '/experience/unfold1'
             },
             {
-              text: 'Review-b',
+              text: 'Review-B',
               link: '/experience/unfold2'
             },
             {
-              text: 'Review-c',
+              text: 'Review-C',
               link: '/experience/unfold3'
             }]
           }
