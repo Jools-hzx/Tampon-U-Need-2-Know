@@ -6,7 +6,7 @@
 
 :::
 <div>
-    <img src="/assets/bg03.jpeg"
+    <img src="/bg03.jpeg"
     style="text-align: center; width: 60%;
     height: auto; display: block;" />
 </div>

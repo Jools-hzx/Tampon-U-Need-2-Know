@@ -7,7 +7,7 @@ export default defineConfig({
   // 配置头部（head）标签
   head: [
     // 添加一个自定义的 favicon
-    ['link', { rel: 'icon', href: '/assets/element5.png' }],
+    ['link', { rel: 'icon', href: '/element5.png' }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
