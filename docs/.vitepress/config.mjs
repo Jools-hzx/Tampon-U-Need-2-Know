@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/Tampon-U-Need-2-Know/',
   title: "Tampon Need To Know",
   description: "Some information of tampon you need to know",
   // 配置头部（head）标签
