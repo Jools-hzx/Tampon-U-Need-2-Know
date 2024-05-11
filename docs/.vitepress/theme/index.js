@@ -4,6 +4,7 @@ import DefaultTheme from 'vitepress/theme'
 import './style.css'
 import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
+import RandomReview from './components/RandomReview.vue'
 
 /** @type {import('vitepress').Theme} */
 export default {
@@ -14,6 +15,6 @@ export default {
     })
   },
   enhanceApp({ app }) {
-    app.use(ElementPlus)
+    app.use(ElementPlus).component('RandomReview', RandomReview)
   }
 }

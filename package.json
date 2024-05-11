@@ -9,6 +9,7 @@
     "docs:preview": "vitepress preview docs --port 8081"
   },
   "dependencies": {
+    "axios": "^1.6.8",
     "element-plus": "^2.7.2"
   }
 }
