@@ -1,15 +1,32 @@
-# Introduction
+# Breaking the Silence: The Evolution of Menstrual Discourse
 
-::: danger Note:
-
-#### "Make each day count by putting your health first"
-
-:::
-<div>
+<div style="text-align: center;">
     <img src="/bg03.jpeg"
-    style="text-align: center; width: 60%;
-    height: auto; display: block;" />
+    style="width: 60%; height: auto;
+    margin: auto; display: block;" />
 </div>
+
+## From Taboo to Empowerment
+
+::: danger Menstruation
+
+Once whispered, now a voice of empowerment. Our journey navigates the sea change in how society speaks about periods, with tampons leading the narrative. From taboo to topic, from hidden to highlighted, the language we use reflects a revolution in acceptance and understanding.
+
+<span style="display: flex; align-items: center; justify-content: center; text-align: left; margin-bottom: 20px;">
+  <img width="160" src="/intro_aside_02.jpg" alt="Image 1" style="margin-right: 20px;">
+  <span style="flex-grow: 1; max-width: 60%;">
+    In the past, marketing strategies for menstrual products often upheld certain gender stereotypes, usually depicting menstruation as something to be managed or hidden. However, recent shifts in advertising indicate a trend towards more empowering and positive representations of menstruation...
+  </span>
+  <img width="160" src="/intro_aside_01.jpg" alt="Image 2" style="margin-left: 20px;">
+</span>
+
+<span style="display: flex; align-items: center; justify-content: center; text-align: left;">
+  <span style="flex-grow: 1; max-width: 60%; margin-right: 20px;">
+    Stand with us as we chart the rise of open conversation, <b>where tampon reviews on Walmart's platform become more than words — they're the markers of a new chapter in gender discourse</b>. Here, we analyze, we question, and we celebrate the voices that are redefining the menstrual experience.
+  </span>
+  <img width="160" src="/intro_bottom_01.jpg" alt="An image" style="margin-left: 20px;margin-bottom: 20px">
+</span>
+:::
 
 ## New to Tampax? Watch how girls talk about their using experience
 
@@ -41,5 +58,3 @@ Ready to talk periods? There's a lot of tampon myths out there, so let's set the
 College basketball players Angel Reese and Flau'jae Johnson get real about why tampons are a must for them, on and off the court.  
 No see, no feel protection. For a better way to period, just add Tampax!
 :::
-
-add text....

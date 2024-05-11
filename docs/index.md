@@ -2,11 +2,11 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 hero:
-  name: "Tampon You Need to Know About"
+  name: "Unmasking Menstruation: Honest Reviews, Empowered selves"
   text: ""  #TODO: add main text
   tagline: -- Customer Review on Tampax
   image:
-    src: /bg02.jpeg
+    src: /final_index_bg_1.jpg
     alt: VitePress
   actions:
     - theme: brand
@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: View Experiences
       link: /experience/index
+    - theme: alt
+      text: View Summary
+      link: /summary/index
 
 features:
   - icon: 

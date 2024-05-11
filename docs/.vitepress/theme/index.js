@@ -2,6 +2,8 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
+import ElementPlus from 'element-plus'
+import 'element-plus/dist/index.css'
 
 /** @type {import('vitepress').Theme} */
 export default {
@@ -11,7 +13,7 @@ export default {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
     })
   },
-  enhanceApp({ app, router, siteData }) {
-    // ...
+  enhanceApp({ app }) {
+    app.use(ElementPlus)
   }
 }

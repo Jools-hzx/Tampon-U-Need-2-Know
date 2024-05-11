@@ -3,14 +3,15 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/Tampon-U-Need-2-Know/',
-  title: "Tampon Need To Know",
+  title: " ",
   description: "Some information of tampon you need to know",
   // 配置头部（head）标签
   head: [
-    // 添加一个自定义的 favicon
-    ['link', { rel: 'icon', href: '/element5.png' }],
+    // 添加一个自定义的 favicon,需要根据配置的 base 目录标签获取
+    ['link', { rel: 'icon', href: '/Tampon-U-Need-2-Know/icon.png' }],
   ],
   themeConfig: {
+    logo: '/element5.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -24,6 +25,10 @@ export default defineConfig({
       {
         text: 'Experiences',
         link: '/experience/index',
+      },
+      {
+        text: 'Summary',
+        link: '/summary/index',
       }
     ],
 
@@ -51,6 +56,10 @@ export default defineConfig({
               text: 'Review-C',
               link: '/experience/unfold3'
             }]
+          },
+          {
+            text: 'Summary',
+            link: '/summary/'
           }
         ]
       }
